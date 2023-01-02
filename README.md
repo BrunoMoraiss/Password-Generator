@@ -1,0 +1,1 @@
+Projeto criado para ser um gerador de senha aleatório, sendo possivel escolher quais tipos de caracteres a senha irá possuir, maisculas, numeros e simbolos. Também é possivel escolher o tamanho da senha, sendo o minimo em 4 caracteres e 16 caracteres.
